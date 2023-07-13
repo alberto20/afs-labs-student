@@ -1,4 +1,4 @@
--- adalberto ramirez
+-- 
 -- PostgreSQL database dump
 --
 
